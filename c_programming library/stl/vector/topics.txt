@@ -1,0 +1,4 @@
+erase (iterator , key ,value ) 
+insert 
+find 
+push_back 

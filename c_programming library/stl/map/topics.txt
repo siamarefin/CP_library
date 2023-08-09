@@ -1,0 +1,10 @@
+lower_bound & upper_bound 
+find 
+empty 
+count 
+iterator 
+for minimum key = mp.begin()
+for maximum key = mp.rbegin()
+end()
+size()
+for delete x key = mp.erase(x)

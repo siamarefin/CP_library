@@ -154,3 +154,6 @@ int main()
 2 3
 3 0
 */
+
+
+problem : https://codeforces.com/problemset/problem/862/B

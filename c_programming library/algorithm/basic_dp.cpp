@@ -1,6 +1,9 @@
 // https://www.youtube.com/watch?v=u7DdPBAJttU&list=PLauivoElc3gimdmLcIIpafEkzGs4tCQmi&index=2
 
 
+/* first e brute force recursion idea then oitare O(n) complexity te niye asa holo dp . */  
+
+
 
 // top down approch dp
 #include <bits/stdc++.h>

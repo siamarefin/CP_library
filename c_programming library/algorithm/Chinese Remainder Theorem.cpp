@@ -5,6 +5,8 @@ congruent : Two integers a and b are said to be congruent modulo m if their diff
 It is then said that a is congruent to b modulo m, and this statement is written in the symbolic form a≡b (mod m). 
 Such a relation is called a congruence.
 
+relatively prime: Two integers are relatively prime or Coprime when there are no common factors other than 1. 
+
 
 
 */ 

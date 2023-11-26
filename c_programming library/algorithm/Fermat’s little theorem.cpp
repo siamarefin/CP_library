@@ -1,6 +1,7 @@
 // https://www.geeksforgeeks.org/fermats-little-theorem/
 /*   Fermat’s little theorem states that if p is a prime number, then for any integer a, the number a p – a is an integer multiple of p. 
-Use of Fermat’s little theorem: If we know m is prime, then we can also use Fermat’s little theorem to find the inverse. */ 
+Use of Fermat’s little theorem: If we know m is prime, then we can also use Fermat’s little theorem to find the inverse. 
+MMI find er jonno eita use kora hoi */ 
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,4 +1,7 @@
-/* The Chinese Remainder Theorem (CRT) is used to solve a set of different congruent equations with one variable 
+/*  https://www.youtube.com/watch?v=e8DtzQkjOMQ&t=377s
+
+
+The Chinese Remainder Theorem (CRT) is used to solve a set of different congruent equations with one variable 
 but different moduli which are relatively prime as shown below: 
 
 congruent : Two integers a and b are said to be congruent modulo m if their difference a–b is divisible by the integer m.

@@ -1,4 +1,6 @@
 /*
+https://www.youtube.com/watch?v=DyOv20d4c70
+
 Φ(n) = Number of positive integers less than 'n' that are relatively prime to n.
 
 gcd ==1  hole relatively prime hoi 

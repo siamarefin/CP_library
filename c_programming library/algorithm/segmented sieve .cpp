@@ -1,3 +1,5 @@
+// time cmplexity = O(n) , here n = high - low 
+
 #include<bits/stdc++.h>
 using namespace std;
 vector<int>sieve(int n)
